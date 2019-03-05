@@ -1,4 +1,4 @@
 
 # Fork Quarters
 ------
-[pdf link](/pages/pdfPage.md)  
+[pdf link](/game/pages/pdfPage.md)  
