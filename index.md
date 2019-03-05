@@ -1,5 +1,5 @@
-![](/images/fork1.jpg)
-![](/images/quarter1.jpg)
+![](/images/fork1.jpg =250x)
+![](/images/quarter1.jpg =250x)
 
 # RULES
 ------
