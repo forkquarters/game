@@ -1,4 +1,6 @@
+![](/images/fork1.jpg)
+![](/images/quarter1.jpg)
 
-# Fork Quarters
+# RULES
 ------
-[pdf link](/game/pages/testPdfPage.md)  
+<embed src="https://forkquarters.github.io/game/images/testPdf.pdf" width="800" height="850" type="application/pdf" />
