@@ -1,12 +1,9 @@
 ![test image size](/images/fork1.jpg){:height="40%" width="40%"}
 ![test image size](/images/quarter1.jpg){:height="40%" width="40%"}
 
-# Welcome to the official Fork Quarters website  
-
-### Site still under construction...  
-
 # How to Play  
 Fork Quarters is a gentle person’s game. It is played with readily available materials. The required materials are:  
+
 Four forks  
 A round table  
 Four glasses  
@@ -49,15 +46,14 @@ If any ambiguities in the rules are encountered, the outcome should be decided c
 Preventing the opposing team from a scoring opportunity is in violation of the etiquette and usually results in shame.
 Loud good natured heckles and yelling are encouraged. Taunting or harassing which are harmful and unpleasant have no place at the fork quarter table. Players and spectators are expected to stand up to unspirited hurtful speech.  
 
-This is a fast moving game with many intricacies. Leeway should be given to new players while they are learning the game.
-The game should encompass an inclusive lively spirit.  
+This is a fast moving game with many intricacies. Leeway should be given to new players while they are learning the game.  The game should encompass an inclusive lively spirit.  
 
 # Glossary of Terms  
 
 ## Dead zone  
 The region for catching quarters that falls in between two adjacent players, classically a difficult place to complete catches.  
 
-##Pillars  
+## Pillars  
 The four pint glasses that can not be moved with one exception. The pillars may be moved to realign them.  
 
 ## No-hander lander  
