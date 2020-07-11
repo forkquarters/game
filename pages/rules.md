@@ -1,10 +1,10 @@
-# The Game  
+# The Game
 Fork Quarters is a gentle person’s game. It is played with readily available materials. The required materials are:  
-* Four forks
-* A round table
-* Four glasses
-* Four beverages
-* Two quarters
+Four forks  
+A round table  
+Four glasses  
+Four beverages  
+Two quarters  
 
 ## Overview  
 The game is played with two quarters, four people, four forks, and passion. The goal of the game is to roll quarters into your partner’s fork tines.  
@@ -36,7 +36,7 @@ A receiver may attempt to catch a quarter without moving their fork. The fork mu
 ## End of the Game  
 The game ends as soon as one team reaches 13 points unless the game becomes tied at 12 points. In the case of a 12-12 tie, the game goes “whole hog” - it is played to 21 straight. First team to reach 21 wins there is not a win by 2 rule.  
 
-# Etiquette  
+## Etiquette  
 If any ambiguities in the rules are encountered, the outcome should be decided collectively, complying to the ethos of “this is a gentle person’s game”.  
 
 Preventing the opposing team from a scoring opportunity is in violation of the etiquette and usually results in shame.
@@ -44,6 +44,10 @@ Loud good natured heckles and yelling are encouraged. Taunting or harassing whic
 
 This is a fast moving game with many intricacies. Leeway should be given to new players while they are learning the game.
 The game should encompass an inclusive lively spirit.  
+
+# History of the Game:  
+
+Fork Quarters was developed in 2013? By Grant Buckingham, Killian Burns, Little Alex, and Jordan “Jo’j” Mirocha . Killian was showing everyone a mini game Get Forked which was on the “Minute to win it” TV game show. Grant though that was STUPID and boring to watch. Then one person started moving the fork to try and catch the rolling quarter. The other two people started doing the same thing on the same table in a cross fire action. This was fun but it needed more structure. There were four pint glasses on the table so we used them as markers, pillars as they are now known, in the center of the table. We created a square and started using this square to develop rules. We played for hours that first night, it was something special.  
 
 ------
 [Return to Homepage](https://forkquarters.github.io/game)
