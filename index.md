@@ -33,6 +33,7 @@ If rolling quarters make contact at any point, a “social” occurs. Everyone s
 
 ## Scoring  
 1 point is awarded to a team if on partner catches a rolled quarter from his or her partner.  
+
 If an opposing team’s rolling quarters exits the middle through a receiver’s Pillars, that receiver is entitled to catch the rolling quarter. If they succeed (a “hanger-90”) the receiver’s team gains 2 points. The team who rolled this hanger-90 must let the team attempt to catch the quarter before retrieving their quarter. There is no penalty but they have violated the etiquette of the game and should feel shame.  
 
 A receiver may attempt to catch a quarter without moving their fork. The fork must be set in position before the thrower’s quarter crosses the thrower’s Pillars. If the receiver catches a quarter in this way from their partner (a “No Hander Lander”) his or her team is awarded 3 points. If a quarter is caught like this from the opposing team (“Free-90”), the receiver’s team gets 4 points. A Free-90 also begets a rare opportunity — the game stops and the receiver of the Free-90 is granted one chance at an “No Hander Lander.” If completed successfully, that team immediately wins the game and their next game.  
